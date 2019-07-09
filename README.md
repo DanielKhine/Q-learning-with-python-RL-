@@ -1,2 +1,2 @@
 # Q-learning-with-python-RL-
-Q-learning for FrozenLake game using Python, openAi gym.
+Q-learning for FrozenLake game using openAi Gym and Python.
